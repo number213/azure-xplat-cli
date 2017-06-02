@@ -62,7 +62,9 @@ commands/arm/network/arm.network.nsg-rule-tests.js
 commands/arm/network/arm.network.vnet-tests.js
 commands/arm/network/arm.network.vnet-peering-tests.js
 commands/arm/network/arm.network.subnet-tests.js
+commands/arm/network/arm.network.nic-custom-tests.js
 commands/arm/network/arm.network.nic-tests.js
+commands/arm/network/arm.network.nic-ip-config-tests.js
 commands/arm/network/arm.network.lb-tests.js
 commands/arm/network/arm.network.lb-probe-tests.js
 commands/arm/network/arm.network.lb-frontend-ip-tests.js
